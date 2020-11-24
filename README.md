@@ -15,11 +15,14 @@ Plastic that is not recycled and getting mixed with the organic waste which is d
 
 
 
-### Uses of the app:
+### Uses of the App:
 
 This app comes to the households to identify the waste they are about to dispose of and to take up proper methods of disposal, Which prevents unnecessary waste accumulation.
 This app when used effectively, Helps to reduce pollution caused due to improper methods of disposal.
 Any waste material scanned can be identified in terms of the substantial composition and the level of pollution it causes, Hence acting as a great tool for you to be a decision maker in disposing of the garbage.
+
+### Screens of my App: https://xd.adobe.com/view/94537820-4ba9-47eb-6fe4-214d2eb1d3c2-e262/
+### Grid version: https://xd.adobe.com/view/94537820-4ba9-47eb-6fe4-214d2eb1d3c2-e262/grid
 
 ### Conclusion:
 
